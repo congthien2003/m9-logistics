@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Common.DataAccess.EntityFramework\\Common.DataAccess.EntityFramework.csproj": {}
+  },
+  "projects": {
+    "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Common.DataAccess.EntityFramework\\Common.DataAccess.EntityFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Common.DataAccess.EntityFramework\\Common.DataAccess.EntityFramework.csproj",
+        "projectName": "Common.DataAccess.EntityFramework",
+        "projectPath": "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Common.DataAccess.EntityFramework\\Common.DataAccess.EntityFramework.csproj",
+        "packagesPath": "C:\\Users\\NTT\\.nuget\\packages\\",
+        "outputPath": "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Common.DataAccess.EntityFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\NTT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Common.Entities\\Common.Entities.csproj": {
+                "projectPath": "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Common.Entities\\Common.Entities.csproj"
+              },
+              "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Common.Services.Infrastructure\\Common.Services.Infrastructure.csproj": {
+                "projectPath": "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Common.Services.Infrastructure\\Common.Services.Infrastructure.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Microsoft.Owin": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Owin": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Common.Entities\\Common.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Common.Entities\\Common.Entities.csproj",
+        "projectName": "Common.Entities",
+        "projectPath": "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Common.Entities\\Common.Entities.csproj",
+        "packagesPath": "C:\\Users\\NTT\\.nuget\\packages\\",
+        "outputPath": "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Common.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NTT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Common.Services.Infrastructure\\Common.Services.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Common.Services.Infrastructure\\Common.Services.Infrastructure.csproj",
+        "projectName": "Common.Services.Infrastructure",
+        "projectPath": "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Common.Services.Infrastructure\\Common.Services.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\NTT\\.nuget\\packages\\",
+        "outputPath": "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Common.Services.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NTT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\DTO\\DTO.csproj": {
+                "projectPath": "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\DTO\\DTO.csproj"
+              },
+              "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Entities\\Entities.csproj": {
+                "projectPath": "X:\\M9 Logistics\\m9logistics\\m9logisticsmanagementbe\\src\\Common\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

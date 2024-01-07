@@ -1,0 +1,15 @@
+X:\M9 Logistics\m9logistics\core\src\Services.Infrastructure\bin\Debug\netstandard2.0\Services.Infrastructure.deps.json
+X:\M9 Logistics\m9logistics\core\src\Services.Infrastructure\bin\Debug\netstandard2.0\Services.Infrastructure.dll
+X:\M9 Logistics\m9logistics\core\src\Services.Infrastructure\bin\Debug\netstandard2.0\Services.Infrastructure.pdb
+X:\M9 Logistics\m9logistics\core\src\Services.Infrastructure\bin\Debug\netstandard2.0\DTO.dll
+X:\M9 Logistics\m9logistics\core\src\Services.Infrastructure\bin\Debug\netstandard2.0\Entities.dll
+X:\M9 Logistics\m9logistics\core\src\Services.Infrastructure\bin\Debug\netstandard2.0\DTO.pdb
+X:\M9 Logistics\m9logistics\core\src\Services.Infrastructure\bin\Debug\netstandard2.0\Entities.pdb
+X:\M9 Logistics\m9logistics\core\src\Services.Infrastructure\obj\Debug\netstandard2.0\Services.Infrastructure.csproj.AssemblyReference.cache
+X:\M9 Logistics\m9logistics\core\src\Services.Infrastructure\obj\Debug\netstandard2.0\Services.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+X:\M9 Logistics\m9logistics\core\src\Services.Infrastructure\obj\Debug\netstandard2.0\Services.Infrastructure.AssemblyInfoInputs.cache
+X:\M9 Logistics\m9logistics\core\src\Services.Infrastructure\obj\Debug\netstandard2.0\Services.Infrastructure.AssemblyInfo.cs
+X:\M9 Logistics\m9logistics\core\src\Services.Infrastructure\obj\Debug\netstandard2.0\Services.Infrastructure.csproj.CoreCompileInputs.cache
+X:\M9 Logistics\m9logistics\core\src\Services.Infrastructure\obj\Debug\netstandard2.0\Services.Infrastructure.csproj.CopyComplete
+X:\M9 Logistics\m9logistics\core\src\Services.Infrastructure\obj\Debug\netstandard2.0\Services.Infrastructure.dll
+X:\M9 Logistics\m9logistics\core\src\Services.Infrastructure\obj\Debug\netstandard2.0\Services.Infrastructure.pdb

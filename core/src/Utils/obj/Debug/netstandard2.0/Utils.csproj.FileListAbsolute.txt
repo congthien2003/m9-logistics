@@ -1,0 +1,13 @@
+X:\M9 Logistics\m9logistics\core\src\Utils\bin\Debug\netstandard2.0\Utils.deps.json
+X:\M9 Logistics\m9logistics\core\src\Utils\bin\Debug\netstandard2.0\Utils.dll
+X:\M9 Logistics\m9logistics\core\src\Utils\bin\Debug\netstandard2.0\Utils.pdb
+X:\M9 Logistics\m9logistics\core\src\Utils\bin\Debug\netstandard2.0\Entities.dll
+X:\M9 Logistics\m9logistics\core\src\Utils\bin\Debug\netstandard2.0\Entities.pdb
+X:\M9 Logistics\m9logistics\core\src\Utils\obj\Debug\netstandard2.0\Utils.csproj.AssemblyReference.cache
+X:\M9 Logistics\m9logistics\core\src\Utils\obj\Debug\netstandard2.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+X:\M9 Logistics\m9logistics\core\src\Utils\obj\Debug\netstandard2.0\Utils.AssemblyInfoInputs.cache
+X:\M9 Logistics\m9logistics\core\src\Utils\obj\Debug\netstandard2.0\Utils.AssemblyInfo.cs
+X:\M9 Logistics\m9logistics\core\src\Utils\obj\Debug\netstandard2.0\Utils.csproj.CoreCompileInputs.cache
+X:\M9 Logistics\m9logistics\core\src\Utils\obj\Debug\netstandard2.0\Utils.csproj.CopyComplete
+X:\M9 Logistics\m9logistics\core\src\Utils\obj\Debug\netstandard2.0\Utils.dll
+X:\M9 Logistics\m9logistics\core\src\Utils\obj\Debug\netstandard2.0\Utils.pdb

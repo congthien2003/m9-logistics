@@ -1,0 +1,20 @@
+﻿/*
+* Copyright (c) M9 Logistics 2023. All Rights Reserved.
+* Licensed under the Single Application / Multi Application License.
+* See LICENSE_SINGLE_APP / LICENSE_MULTI_APP in the �docs� folder for license information on type of purchased license.
+*/
+
+using Entities;
+using Microsoft.AspNet.Identity;
+
+namespace WebApi
+{
+    public class ApplicationUser : User, IUser<int>
+    {
+        public string UserName
+        {
+            get => Login;
+            set => Login = value;
+        }
+    }
+}

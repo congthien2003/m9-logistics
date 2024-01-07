@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VKai8U4R02U9DrsmaHvoGL4V5w+iDvao2xuFinxKvYmQwIrMC3TyMstQfB0i2FqWBzG2kAro8g7895D3ZQYSKw==",
+  "success": true,
+  "projectFilePath": "X:\\M9 Logistics\\m9logistics\\core\\src\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

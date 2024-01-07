@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aoJsZ+/lannvPMnTTE0H0mnwq3YN7pKyToOrijamg8tMtQSnO4G9z2pfnpgE9eH3GLcP5JPLhPKiz2+ggH6QYA==",
+  "success": true,
+  "projectFilePath": "X:\\M9 Logistics\\m9logistics\\core\\src\\IdentityManagement\\IdentityManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NTT\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
+    "C:\\Users\\NTT\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.3\\microsoft.aspnet.identity.core.2.2.3.nupkg.sha512",
+    "C:\\Users\\NTT\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
